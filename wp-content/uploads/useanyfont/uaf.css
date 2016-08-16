@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'choppelin';
+				font-style: normal;
+				src: url('160603061527Choppelin.eot');
+				src: local('choppelin'), url('160603061527Choppelin.eot') format('embedded-opentype'), url('160603061527Choppelin.woff') format('woff');
+			}
+						h1, h2{
+					font-family: 'choppelin' !important;
+				}
+		
